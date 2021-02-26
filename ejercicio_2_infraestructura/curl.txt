@@ -1,0 +1,6 @@
+    "clone_url": "https://github.com/lorensbauer/GPI2.git",
+    "clone_url": "https://github.com/lorensbauer/mapbox-android-demo.git",
+    "clone_url": "https://github.com/lorensbauer/Parse-SDK-Android.git",
+    "clone_url": "https://github.com/lorensbauer/parse-server-example.git",
+    "clone_url": "https://github.com/lorensbauer/repositoro.git",
+    "clone_url": "https://github.com/lorensbauer/tic-tac-toe-con-sockets-en-java.git",
