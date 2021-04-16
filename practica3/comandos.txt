@@ -1,0 +1,593 @@
+    1  sudo apt-get update $ sudo apt-get install git
+    2  sudo apt-get install git
+    3  git --version
+    4  passwd
+    5  rm README.md 
+    6  sudo rm README.md 
+    7  cd ..
+    8  rm GPI2/
+    9  rm -d GPI2/
+   10  rm -r GPI2/
+   11  rm -r GPI2/ -y
+   12  rm -r -y GPI2/ -y
+   13  rm * -r GPI2/ -y
+   14  rm -r GPI2/
+   15  ls
+   16  rm -d GPI2/
+   17  sudo rm -r GPI2/
+   18  ls
+   19  cd Escritorio/
+   20  firefox &
+   21  sudo apt install firefox
+   22  firefox &
+   23  sudo apt install firefox
+   24  ping google.com
+   25  apt-get update
+   26  sudo -s apt-get install
+   27  sudo -s
+   28  apt install firefox
+   29  ping  91.189.88.142
+   30  sudo apt-get install firefox
+   31  wget 91.189.88.152:80
+   32  cat index.html 
+   33  sudo apt-get upgrade
+   34  sudo apt-get update
+   35  sudo apt-get install firefox
+   36  git clone https://github.com/lorensbauer/GPI2.git
+   37  cd GPI2/
+   38  mkdir ejercicio_2_infraestructura
+   39  ls
+   40  cd ejercicio_2_infraestructura/
+   41  git clone https://github.com/lorensbauer/GPI2.git
+   42  rm -m
+   43  rm *
+   44  rm -m GPI2/
+   45  sudo git-apt install
+   46  sudo git install
+   47  sudo apt install git
+   48  java --version
+   49  sudo apt get install libreoffice
+   50  sudo apt-get install libreoffice
+   51  cd Escritorio/
+   52  cd GPI2/ejercicio_2_infraestructura/
+   53  git clone https://github.com/sonph63195/Shopping.git
+   54  sudo git clone https://github.com/sonph63195/Shopping.git
+   55  sudo apt-get install netbeans
+   56  netbeans
+   57  netbeans &
+   58  ls
+   59  ls /etc/init.d
+   60  sudo /etc/init.d/tomcat8 start
+   61  wget localhost:8080
+   62  sudo /etc/init.d/tomcat8 stop
+   63  unzip pmd-bin-6.31.0.zip 
+   64  cd ..
+   65  ./pmd-bin-6.31.0/bin/run.sh pmd -d Shopping/src -R pmd-bin-6.31.0/rulesests/java/quickstart.xml -f text > tarea2pmd.txt
+   66  cat tarea2pmd.txt 
+   67  netbeans &
+   68  cd Escritorio/
+   69  git clone https://github.com/lorensbauer/GPI2.git
+   70  git status
+   71  cd GPI2/
+   72  git status
+   73  git commit -m ojo
+   74  git config --global user.email "99lotermin@gmail.com"
+   75  git config --global user.name "Loren"
+   76  git commit -m ojo
+   77  git add
+   78  git add .
+   79  git rm --cached ejercicio_2_infraestructura/Shopping
+   80  git rm -f --cached ejercicio_2_infraestructura/Shopping
+   81  ls
+   82  git status
+   83  git add ejercicio_2_infraestructura/
+   84  git commit -m ojo
+   85  git push
+   86  git add -r ejercicio_2_infraestructura/
+   87  git add ejercicio_2_infraestructura/
+   88  git commit -m "ojo"
+   89  git push
+   90  git add ejercicio_2_infraestructura/
+   91  git commit -m "ojo"
+   92  git push
+   93  cd Escritorio/GPI2/
+   94  git status
+   95  git add ejercicio_2_infraestructura/
+   96  sudo git add ejercicio_2_infraestructura/
+   97  git commit -m
+   98  git commit -m prueba
+   99  sudo git commit -m prueba
+  100  git status
+  101  git push origin master
+  102  sudo git push
+  103  git status
+  104  git clone https://github.com/lorensbauer/prueba.git
+  105  sudo git clone https://github.com/lorensbauer/prueba.git
+  106  rm -r prueba/
+  107  ls
+  108  rm -r prueba/
+  109  ls
+  110  rm prueba/
+  111  rm -r prueba/
+  112  ls
+  113  git status
+  114  cd ..
+  115  rm GPI2/
+  116  rm -r  GPI2/
+  117  ls
+  118  sudo rm -r  GPI2/
+  119  ls
+  120  cd Escritorio/GPI2/ejercicio_2_infraestructura/
+  121  ls
+  122  git clone https://github.com/sonph63195/Shopping.git
+  123  cd ..
+  124  git add ejercicio_2_infraestructura/
+  125  git submodule add https://github.com/sonph63195/Shopping.git ejercicio_2_infraestructura/Shopping
+  126  ls
+  127  cd ejercicio_2_infraestructura/
+  128  ls
+  129  cd Shopping/
+  130  ls
+  131  cd ..
+  132  sudo rm -r Shopping
+  133  ls
+  134  git submodel add https://github.com/sonph63195/Shopping.git
+  135  git submodule add https://github.com/sonph63195/Shopping.git
+  136  ls
+  137  git clone https://github.com/sonph63195/Shopping.git
+  138  cd ..
+  139  git add ejercicio_2_infraestructura/
+  140  git commit -m aver
+  141  git push
+  142  ls
+  143  cd ejercicio_2_infraestructura/
+  144  ls
+  145  Shopping/
+  146  cd Shopping/
+  147  ls
+  148  netbeans &
+  149  ls
+  150  tar -xf sublime_text_3_build_3211_x64.tar.bz2 
+  151  sudo apt install sublime-text3
+  152  sudo apt install sublime
+  153  sudo apt-get install sublime-text-installer
+  154  history
+  155  clear
+  156  cd Escritorio/GPI2/
+  157  git status
+  158  git add ejercicio_2_infraestructura/
+  159  git commit -m "pmd/findbugs"
+  160  git push
+  161  git status
+  162  close
+  163  unzip findbugs-3.0.1.zip 
+  164  ls
+  165  c findbugs-3.0.1
+  166  cd findbugs-3.0.1/
+  167  ls
+  168  cd lib
+  169  ls
+  170  java -jar findbugs.jar
+  171  java -jar -gui findbugs.jar
+  172  java -jar findbugs.jar -gui
+  173  ant --version
+  174  findbugs &
+  175  sudo apt install findbugs
+  176  findbugs &
+  177  java -jar $FINDBUGS_HOME lib/findbugs.jar
+  178  cd ..
+  179  java -jar $FINDBUGS_HOME lib/findbugs.jar
+  180  sudo find / -name Shopping.war
+  181  git status
+  182  cd Escritorio/GPI2/
+  183  git status
+  184  git add ejercicio_2_infraestructura/
+  185  git commit -m "war"
+  186  git push
+  187  history
+  188  clear
+  189  java -jar $FINDBUGS_HOME lib/findbugs.jar
+  190  cd Escritorio/findbugs-3.0.1/
+  191  java -jar $FINDBUGS_HOME lib/findbugs.jar
+  192  history
+  193  sudo wget localhost:8080
+  194  cd Escritorio/GPI2/
+  195  git status
+  196  git add ejercicio_2_infraestructura/
+  197  git commit -m
+  198  git commit -m "logs"
+  199  git push
+  200  cd ..
+  201  cd Shopping/
+  202  jar cvf Shopping.war
+  203  jar --help
+  204  jar cvf Shopping.war *
+  205  cp Shopping.war /var/lib/tomcat8/webapps/
+  206  Shopping.war /var/lib/tomcat8/webapps/
+  207  sudo cp Shopping.war /var/lib/tomcat8/webapps/
+  208  sudo -s
+  209  sudo -s
+  210  tomcat --version
+  211  cp Shopping
+  212  cd Shopping/
+  213  ls
+  214  cd src
+  215  ls
+  216  sudo java
+  217  cd java
+  218  ls
+  219  cd sonn
+  220  cd sonphse/
+  221  ls
+  222  cd cart
+  223  ls
+  224  cd ../../
+  225  cd ..
+  226  cd ../../../..
+  227  cd otm
+  228  cd tomcat8/
+  229  ls
+  230  ls webapps/
+  231  ls -a
+  232  cd Shopping
+  233  ls
+  234  cd webapps/Shopping/
+  235  ls
+  236  cd web
+  237  ls
+  238  cd ..
+  239  ls
+  240  cd dist/
+  241  ls
+  242  cp WorkShop1.war ../../
+  243  cd ..
+  244  ls
+  245  cd ..
+  246  cd webapps/
+  247  ls
+  248  cd ..
+  249  history
+  250  cd webapps/
+  251  ls
+  252  sudo /etc/init.d/tomcat8 stop
+  253  sudo /etc/init.d/tomcat8 start
+  254  ls
+  255  ls -a
+  256  ls
+  257  cd ROOT/
+  258  ls
+  259  cd META-INF/
+  260  ls
+  261  cd ..
+  262  ls
+  263  ls -a
+  264  cd Shopping/
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd Escritorio/
+  269  cd pmd-bin-6.31.0/bin/ ./run.sh pmd -d Shopping/ -f text -R pmd-bin-6.31.0/rulesests/java/quickstart.xml
+  270  cd pmd-bin-6.31.0/bin/ ./run.sh pmd -d Shopping/ -f text -R pmd-bin-6.31.0 /rulesests/java/quickstart.xml
+  271  cd pmd-bin-6.31.0/bin/ ./run.sh pmd -d Shopping/ -f text -R pmd-bin-6.31.0 rulesests/java/quickstart.xml
+  272  pmd-bin-6.31.0/bin/ ./run.sh pmd -d Shopping/ -f text -R pmd-bin-6.31.0 rulesests/java/quickstart.xml
+  273  cd pmd-bin-6.31.0/bin/
+  274  ./run.sh pmd -d Shopping/ -f text -R pmd-bin-6.31.0 rulesests/java/quickstart.xml
+  275  clear
+  276  cd 
+  277  sudo apt install curl
+  278  curl -X GET -u lorensbauer:ba5bba1e806d85bb00a5c2fa4106c8a35b9ede01https://api.github.com/users/lorensbauer/repos | grep -w clone_url
+  279  curl -X GET -u lorensbauer:ba5bba1e806d85bb00a5c2fa4106c8a35b9ede01 https://api.github.com/users/lorensbauer/repos | grep -w clone_url
+  280  curl -X GET -u lorensbauer:ba5bba1e806d85bb00a5c2fa4106c8a35b9ede01 https://api.github.com/users/lorensbauer/repos | grep -w clone_url > Escritorio/curl.txt
+  281  cd Escritorio/GPI2/
+  282  git add ejercicio_2_infraestructura/
+  283  git commit -m "curl"
+  284  git push
+  285  sudo find /-name tomcat
+  286  sudo find / -name tomcat
+  287  cd ..
+  288  ls
+  289  de thinclient_drives/
+  290  cd thinclient_drives/
+  291  ls
+  292  c ..
+  293  cd ..
+  294  ls
+  295  cd iz
+  296  ls
+  297  cd ..
+  298  ls
+  299  find / -name tomcat
+  300  ls
+  301  cd bin
+  302  ls
+  303  c dir
+  304  cd dir
+  305  cd ..
+  306  ls
+  307  cd boot
+  308  ls
+  309  cd ..
+  310  ls
+  311  cd dev
+  312  ls
+  313  cd ..
+  314  cd proc
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd srv
+  319  ls
+  320  cd ..
+  321  cd usr
+  322  ls
+  323  cd local
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd proc
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd opt
+  332  ls
+  333  cd ../run
+  334  ls
+  335  cd ..
+  336  ls
+  337  cd bin
+  338  ls
+  339  cd ..
+  340  cd opt
+  341  ls
+  342  ls -all
+  343  cd ..
+  344  ls -all
+  345  sudo find / -name tomcat
+  346  sudo service tomcat start
+  347  ls /etc/init.d
+  348  sudo /etc/init.d/tomcat8 status
+  349  sudo /etc/init.d/tomcat8 start
+  350  wget localhost:8080
+  351  sudo wget localhost:8080
+  352  cd home/
+  353  ls
+  354  cd alumno/Escritorio/
+  355  ls
+  356  sudo wget localhost:8080
+  357  cd ..
+  358  ls
+  359  cd ..
+  360  ls
+  361  sudo find / -name tomcat8
+  362  cd etc
+  363  cd init.d/tomcat8
+  364  cd init.d
+  365  ls
+  366  cd tomcat8
+  367  cd ..
+  368  cd ...
+  369  cd ..
+  370  cd usr
+  371  ls
+  372  cd bin
+  373  ls
+  374  cd tomcat8
+  375  clear
+  376  cd $CATALINA_HOME
+  377  LS
+  378  ls
+  379  cd ../..
+  380  ls
+  381  find / -name CATALINA_HOME
+  382  clear
+  383  cd var/
+  384  ls
+  385  find / -name tomcat
+  386  clear
+  387  cd ..
+  388  ls
+  389  find / -name tomcat
+  390  clear
+  391  ls
+  392  cd home/alumno/
+  393  find / -name tomcat
+  394  sudo find / -name tomcat
+  395  sudo ../../usr
+  396  cd ../../usr
+  397  cd share/maven-repo/org/apache/tomcat/
+  398  ls
+  399  cd tomcat-catalina
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd ..
+  404  ls
+  405  cd ..
+  406  cd ../..
+  407  ls
+  408  cd local/
+  409  ls
+  410  cd bin/
+  411  ls
+  412  cd ..
+  413  /path/to/catalina.sh version
+  414  ps aux | grep catalina
+  415  cd ..
+  416  cd share/tomcat8
+  417  ls
+  418  cd bin
+  419  ls
+  420  catalina.sh version
+  421  ls
+  422  ./catalina.sh 
+  423  cd ..
+  424  ls
+  425  ls -all
+  426  cd $CATALINA_HOME
+  427  LS
+  428  cd CATALINA_HOME
+  429  cd catalina.home
+  430  pidof tomcat8
+  431  pgrep
+  432  pgrep tomcat8
+  433  ps
+  434  ps all
+  435  ps -name
+  436  ps aux | grep "tomcat"
+  437  lsof -p 29361
+  438  ls
+  439  cd ../../usr/share/tomcat8
+  440  ls
+  441  ls -a
+  442  cd lib
+  443  ls
+  444  sudo find / -name apache-tomcat
+  445  cd ..
+  446  ls
+  447  cd ..
+  448  ls
+  449  cd tomcat8-admin/
+  450  ls
+  451  cd .
+  452  cd ..
+  453  cd tomcat8-root/
+  454  ls
+  455  cd default_root/
+  456  ls
+  457  cd META-INF/
+  458  ls
+  459  cd ..
+  460  cd tomcat8-admin/
+  461  cd ..
+  462  cd tomcat8-admin/
+  463  ls
+  464  cd host-manager/
+  465  ls
+  466  cd META-INF/
+  467  ls
+  468  cd ..
+  469  ls
+  470  cd WEB-INF/
+  471  ls
+  472  cd jsp/
+  473  ls
+  474  cd ..
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd manager/
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd ..
+  483  ls
+  484  cd logs
+  485  cd tomcat8
+  486  cd log
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd logs
+  491  cd log
+  492  clear
+  493  sudo find / -type f | grep tomcat| grep log
+  494  cd ..
+  495  cd var/log/tomcat8/
+  496  sudo cd var/log/tomcat8/
+  497  cd ..
+  498  ls
+  499  cd var/
+  500  cd log/
+  501  ls
+  502  ls -a
+  503  cd tomcat8/
+  504  sudo cd tomcat8/
+  505  cd sudo tomcat8/
+  506  cd tomcat8/
+  507  sudo find / -type f | grep tomcat| grep log
+  508  cat tomcat8/localhost_access_log.2021-02-26.txt
+  509  sudo cat tomcat8/localhost_access_log.2021-02-26.txt
+  510  sudo cat tomcat8/localhost_access_log.2021-02-26.txt > ../../home/alumno/Escritorio/comprobacionLogs.txt
+  511  cd ..
+  512  ls
+  513  cd build
+  514  cd var/lib/
+  515  ls
+  516  cd webapps
+  517  sudo find / -type f | grep tomcat| grep webapps
+  518  ls
+  519  ls -a
+  520  cd tomcat8/m
+  521  cd tomcat8/
+  522  ls
+  523  cd webapps/
+  524  ls
+  525  cd Shopping/
+  526  ls
+  527  sudo cd Shopping/
+  528  sudo -s
+  529  ./studio.sh 
+  530  dc -h
+  531  df -h
+  532  android studio
+  533  ./studio.sh
+  534  tar xzvf android-studio-ide-201.7199119-linux.tar.gz 
+  535  history
+  536  ls
+  537  cd bin
+  538  ./studio.sh
+  539  df -h
+  540  du -h
+  541  du -h | grep G
+  542  df -h
+  543  ps
+  544  ps -a
+  545  du -h | grep G
+  546  df -h
+  547  sudo s-
+  548  sudo -s
+  549  du -h | grep G
+  550  df -h
+  551  tar xfvJ arduino-1.8.12-linux64.tar.xz 
+  552  df -h
+  553  cd arduino-1.8.12/
+  554  lsç
+  555  sudo chmod +x install.sh
+  556  ./install.sh
+  557  sudo ./install.sh
+  558  df -h
+  559  java ActivityA122309.java
+  560  cd ..
+  561  sudo apt-get install git arduino
+  562  sudo add-apt-repository ppa:git-core/ppa
+  563  sudo apt-get update && sudo apt-get upgrade
+  564  sudo apt-get install gcc-avr binutils avr-libc avrdude
+  565  cd Escritorio/
+  566  git clone https://github.com/ladislas/Bare-Arduino-Project MyArduinoProject
+  567  ls
+  568  cd MyArduinoProject/
+  569  ls
+  570  git submodule update --init --recursive
+  571  git remote set-url origin https://github.com/{{lorensbauer}}/MyArduinoProject
+  572  git push --set-upstream origin master
+  573  git remote set-url origin https://github.com/lorensbauer/MyArduinoProject
+  574  git push --set-upstream origin master
+  575  git remote set-url origin https://github.com/lorensbauer/MyArduinoProject
+  576  git push --set-upstream origin master
+  577  git remote set-url origin https://github.com/lorensbauer/MyArduinoProject
+  578  git push --set-upstream origin master
+  579  cd src/FooProject/
+  580  cp ../../Makefile-Linux.mk ./Makefile
+  581  make
+  582  ls
+  583  make
+  584  ant --version
+  585  maven --version
+  586  ant -version
+  587  maven -versio
+  588  maven --version
+  589  mvn -v
+  590  pwd
+  591  history
+  592  history >
+  593  history > Escritorio/comandos.txt
